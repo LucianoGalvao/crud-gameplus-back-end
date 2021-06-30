@@ -1,0 +1,3 @@
+insert into game (name, year, genre, platform, developer, publisher) values ('League of Legends', '2009', 'MOBA', 'PC', 'Riot Games', 'Riot Games/Garena')
+insert into game (name, year, genre, platform, developer, publisher) values ('Euro Truck Simulator 2', '2012', 'Simulador','PC', 'SCS Software', 'SCS Software')
+insert into game (name, year, genre, platform, developer, publisher) values ('GTA V', '2013', 'Ação', 'PC/XBOX/PS', 'Rockstar North','Rockstar Games')
